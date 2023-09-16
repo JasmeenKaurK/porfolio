@@ -1,0 +1,28 @@
+.nav-menu{
+    background-color: rgb(86, 91, 109);
+    height: 70px;
+}
+.main-menu{
+    float: right;
+}
+.header-area{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(181, 162, 243);
+}
+.header-text{
+    width: 40%;
+    float: left;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+}
+.menu-list{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+#text{
+    color: rgb(45, 41, 46);
+    font-style: italic;
+}
